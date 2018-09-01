@@ -1,0 +1,14 @@
+{
+  "name": "bases",
+  "version": "1.0.0",
+  "description": "Bases de node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Javier Calette",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^12.0.1"
+  }
+}
